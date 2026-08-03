@@ -5,7 +5,7 @@ local scriptUrl = "https://api.jnkie.com/api/v1/luascripts/public/24a4006e6b4cb2
 local keyLink = "https://jnkie.com/get-key/rorokey"
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "JnkieKeySystem"
+ScreenGui.Name = "로로 키시스템"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = player:WaitForChild("PlayerGui")
 
@@ -23,7 +23,7 @@ UICorner.Parent = MainFrame
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.BackgroundTransparency = 1
-Title.Text = "Jnkie Key System"
+Title.Text = "로로 키시스템"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 18
 Title.Font = Enum.Font.GothamBold
