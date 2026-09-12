@@ -1,4 +1,4 @@
-local link = "https://discord.gg/F6Rh9baT6e"
+local link = "https://discord.gg/fbTTp6n9sP"
 
 if setclipboard then
     setclipboard(link)
